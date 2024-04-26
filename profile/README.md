@@ -1,24 +1,24 @@
-## cli
+# cli
 
 - [ ] @antfu/ni
 - [ ] vue-cli
 - [ ] create-vue
 - [ ] create-react-app
 
-## starter
+# template starter
 
-## framework
+# framework
 
 - [ ] vue
 - [ ] react
 - [ ] svelte
 
-## utility
+# utility
 
 - [ ] lodash
 - [ ] underscore
 
-## http
+# http
 
 - [ ] axios
 
