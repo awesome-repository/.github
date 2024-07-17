@@ -9,7 +9,7 @@
 
 # framework
 
-- [ ] vue
+- [x] vue
 - [ ] react
 - [ ] svelte
 
@@ -23,3 +23,7 @@
 - [ ] axios
 
 
+# build tools 
+
+- [x] vite
+- [ ] webpack
