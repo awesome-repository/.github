@@ -27,3 +27,7 @@
 
 - [x] vite
 - [ ] webpack
+
+# style
+
+- [ ] tailwindcss
